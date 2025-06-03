@@ -1,35 +1,28 @@
 ---
-title: Getting Started
-description: What does your user need to know to try your project?
+title: 快速开始
+description: 快速开始阅读本文档
 categories: [Examples, Placeholders]
 tags: [test, docs]
 weight: 2
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+欢迎来到调查局文档中心
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
+## 什么是“调查局”？
+在耀恒荧微纪的曙光照亮红星联邦共和国以及整个星球之后，旧时代的秩序与认知被一场席卷全球的“变故”彻底颠覆。伴随着耀恒星从深邃的赤红转为神秘的蓝金，一度仅存于神话与传说中的异能 (Anomalous Abilities) 如同沉睡的巨兽般苏醒，并开始在人类社会中不规律地涌现。这些超越凡俗的力量，既带来了无限的可能，也催生了前所未有的混乱与威胁——异能失控、异能犯罪、以及利用异能进行恐怖活动的新型组织悄然滋生。
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+面对这一席卷全球的变革与挑战，为了维护新时代的脆弱秩序，探究异能的本质，并应对日益增长的超自然威胁（包括但不限于失控异能者、跨国异能犯罪集团如“黑色组织”、以及来自其他维度的侵袭），一个超越国家界限、拥有特殊权限与尖端资源的秘密机构应运而生——这便是调查局 (Investigation Bureau)。
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+调查局并非隶属于单一国家政府的常规部门，而更像是一个在主要大国（包括红星联邦共和国）默许与支持下，秘密运作的全球性（或至少是具有广泛国际影响力的）超然组织。其核心使命是：
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+监测与研究： 持续监测全球范围内的异能活动与超自然现象，深入研究异能的起源、机制、影响及潜在风险。
+危机应对： 快速响应并处理由异能引发的各类危机事件，控制事态，减少损失。
+威胁清除： 调查并打击利用异能进行非法活动、危害公共安全及国家利益的个人与组织。
+情报统筹： 建立全球性的情报网络，收集、分析和共享与异能及超自然威胁相关的情报。
+人才培养： 招募并培养具备特殊才能（包括异能者和顶尖专业人才）的专员，以应对日益复杂的挑战。
+调查局的行动高度保密，其存在对普通民众而言几乎是未知的。其专员，如卿诗雨、代号“零”的幽灵特工等，都是经过严酷筛选和极限训练的精英，他们掌握着超越常规的技能、先进的科技装备，并拥有在特定情况下超越常规法律程序的行动授权。
 
-## Prerequisites
+在红星联邦共和国，调查局设有包括帝都总局和禹州分局在内的多个分支机构与秘密设施，它们是维护国家在新纪元下面临特殊威胁时的中坚力量。调查局的存在，是这个异能与科技交织的新时代，维持光明与秩序平衡的最后一道防线。
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
-
-## Installation
-
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
-
-## Setup
-
-Is there any initial setup users need to do after installation to try your project?
-
-## Try it out!
-
-Can your users test their installation, for example by running a command or deploying a Hello World example?
