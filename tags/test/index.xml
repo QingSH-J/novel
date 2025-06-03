@@ -1,21 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on Goldydocs</title><link>https://QingSH-J.github.io/novel/tags/test/</link><description>Recent content in Test on Goldydocs</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 03 Jun 2025 08:44:23 +0800</lastBuildDate><atom:link href="https://QingSH-J.github.io/novel/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started</title><link>https://QingSH-J.github.io/novel/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://QingSH-J.github.io/novel/docs/getting-started/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on Goldydocs</title><link>https://QingSH-J.github.io/novel/tags/test/</link><description>Recent content in Test on Goldydocs</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 03 Jun 2025 10:08:34 +0800</lastBuildDate><atom:link href="https://QingSH-J.github.io/novel/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>快速开始</title><link>https://QingSH-J.github.io/novel/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://QingSH-J.github.io/novel/docs/getting-started/</guid><description>&lt;div class="pageinfo pageinfo-primary">
+&lt;p>欢迎来到调查局文档中心&lt;/p>
 
 &lt;/div>
 
-&lt;p>Information in this section helps your user try your project themselves.&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.&lt;/p></description></item><item><title>Example Page</title><link>https://QingSH-J.github.io/novel/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://QingSH-J.github.io/novel/docs/getting-started/example-page/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
+&lt;h2 id="什么是调查局">什么是“调查局”？&lt;a class="td-heading-self-link" href="#%e4%bb%80%e4%b9%88%e6%98%af%e8%b0%83%e6%9f%a5%e5%b1%80" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>在耀恒荧微纪的曙光照亮红星联邦共和国以及整个星球之后，旧时代的秩序与认知被一场席卷全球的“变故”彻底颠覆。伴随着耀恒星从深邃的赤红转为神秘的蓝金，一度仅存于神话与传说中的异能 (Anomalous Abilities) 如同沉睡的巨兽般苏醒，并开始在人类社会中不规律地涌现。这些超越凡俗的力量，既带来了无限的可能，也催生了前所未有的混乱与威胁——异能失控、异能犯罪、以及利用异能进行恐怖活动的新型组织悄然滋生。&lt;/p>
+&lt;p>面对这一席卷全球的变革与挑战，为了维护新时代的脆弱秩序，探究异能的本质，并应对日益增长的超自然威胁（包括但不限于失控异能者、跨国异能犯罪集团如“黑色组织”、以及来自其他维度的侵袭），一个超越国家界限、拥有特殊权限与尖端资源的秘密机构应运而生——这便是调查局 (Investigation Bureau)。&lt;/p>
+&lt;p>调查局并非隶属于单一国家政府的常规部门，而更像是一个在主要大国（包括红星联邦共和国）默许与支持下，秘密运作的全球性（或至少是具有广泛国际影响力的）超然组织。其核心使命是：&lt;/p>
+&lt;p>监测与研究： 持续监测全球范围内的异能活动与超自然现象，深入研究异能的起源、机制、影响及潜在风险。
+危机应对： 快速响应并处理由异能引发的各类危机事件，控制事态，减少损失。
+威胁清除： 调查并打击利用异能进行非法活动、危害公共安全及国家利益的个人与组织。
+情报统筹： 建立全球性的情报网络，收集、分析和共享与异能及超自然威胁相关的情报。
+人才培养： 招募并培养具备特殊才能（包括异能者和顶尖专业人才）的专员，以应对日益复杂的挑战。
+调查局的行动高度保密，其存在对普通民众而言几乎是未知的。其专员，如卿诗雨、代号“零”的幽灵特工等，都是经过严酷筛选和极限训练的精英，他们掌握着超越常规的技能、先进的科技装备，并拥有在特定情况下超越常规法律程序的行动授权。&lt;/p>
+&lt;p>在红星联邦共和国，调查局设有包括帝都总局和禹州分局在内的多个分支机构与秘密设施，它们是维护国家在新纪元下面临特殊威胁时的中坚力量。调查局的存在，是这个异能与科技交织的新时代，维持光明与秩序平衡的最后一道防线。&lt;/p></description></item><item><title>禹州调查局</title><link>https://QingSH-J.github.io/novel/docs/yuzhou/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://QingSH-J.github.io/novel/docs/yuzhou/</guid><description>&lt;p>禹州调查局历史沿革
+禹州调查局 (Yuzhou Regional Investigation Bureau)，全称为“红星联邦共和国调查总局禹州分局”（或“西南大区总部”），是红星国处理禹州行省及周边区域内异能相关事件、超常规威胁及维护国家特殊安全的核心机构。其历史发展与“耀恒荧微纪”后异能的全面觉醒紧密相连。&lt;/p>
+&lt;h2 id="一-创立背景-founding-background">一、 创立背景 (Founding Background)&lt;a class="td-heading-self-link" href="#%e4%b8%80-%e5%88%9b%e7%ab%8b%e8%83%8c%e6%99%af-founding-background" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>耀恒荧微纪初期： 随着耀恒星由赤转为蓝金，“接天光柱”事件后，全球范围内异能现象开始大规模涌现。红星国禹州地区因其独特的地理环境与人文因素，异能觉醒事件频发，对社会秩序构成严峻挑战。&lt;/p>
+&lt;p>应对需求： 常规治安力量难以有效处理日益增多的异能失控、异能犯罪及由此引发的社会恐慌。为维护国家稳定，应对新型威胁，在红星国调查总局（帝都）的直接指示下，决定在禹州设立专门的调查机构。&lt;/p>
+&lt;h2 id="二-早期发展磐石时期---约耀恒荧微纪-xxxx年---xxxx年">二、 早期发展（“磐石”时期 - 约耀恒荧微纪 XXXX年 - XXXX年）&lt;a class="td-heading-self-link" href="#%e4%ba%8c-%e6%97%a9%e6%9c%9f%e5%8f%91%e5%b1%95%e7%a3%90%e7%9f%b3%e6%97%b6%e6%9c%9f---%e7%ba%a6%e8%80%80%e6%81%92%e8%8d%a7%e5%be%ae%e7%ba%aa-xxxx%e5%b9%b4---xxxx%e5%b9%b4" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>先遣队进驻与初建： 一支由帝都及其他地区抽调的军警精英和早期合作异能者组成的先遣队秘密进驻禹州，在极其简陋的条件下（如废弃防空洞）建立了禹州调查局的雏形。首任负责人代号“磐石”，以强硬作风著称。&lt;/p>
+&lt;p>“雾隐档案”系统建立： 开始系统性收集、记录和评估禹州地区疑似异能者的信息，建立了第一代机密档案库，为后续异能者管理和案件分析奠定基础。&lt;/p>
+&lt;p>“盘龙江协议”探索： 尝试与部分尚能沟通的本土强大异能者建立非正式的合作或互不侵犯协议，以稳定区域局势。&lt;/p>
+&lt;p>早期清剿行动： 针对利用异能进行有组织犯罪的早期团伙（如“晨帮”雏形）进行了数次打击行动，初步树立了调查局的威慑力。此阶段涌现出第一批本土培养的优秀专员。&lt;/p>
+&lt;h2 id="三-发展与挑战约耀恒荧微纪-xxxx年---xxxx年">三、 发展与挑战（约耀恒荧微纪 XXXX年 - XXXX年）&lt;a class="td-heading-self-link" href="#%e4%b8%89-%e5%8f%91%e5%b1%95%e4%b8%8e%e6%8c%91%e6%88%98%e7%ba%a6%e8%80%80%e6%81%92%e8%8d%a7%e5%be%ae%e7%ba%aa-xxxx%e5%b9%b4---xxxx%e5%b9%b4" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>“黑色组织”渗透与对抗： 随着“黑色组织”及其前身在红星国的活动日益猖獗，禹州调查局开始面临更复杂、更有组织的异能犯罪威胁。双方在情报、渗透与反渗透等领域展开了长期对抗。&lt;/p>
+&lt;p>“禁魔石”的发现与应用： 在与“黑色组织”的对抗中，禹州调查局首次获取并开始研究“禁魔石”的特性与应用，将其作为压制高危异能的重要手段。对禹州地区特殊矿产与“禁魔石”来源的调查也秘密展开。&lt;/p>
+&lt;p>“因果种子”的初步认知： 对于某些无法用常规逻辑解释的、似乎涉及概率操纵或命运干涉的“意外”事件，调查局高层开始接触到关于“因果种子”这类禁忌异能的零星情报和早期传闻。&lt;/p>
+&lt;p>人才培养体系的建立： 面对日益严峻的挑战，禹州调查局开始系统化地从军方、科研机构及社会层面招募和培养具备异能潜力或特殊专业技能的人才，逐步建立了初具规模的训练与发展中心（如陈启曦后来负责的机构）。&lt;/p>
+&lt;h2 id="四-现阶段与展望-耀恒荧微纪-5030年至今">四、 现阶段与展望 (耀恒荧微纪 5030年至今)&lt;a class="td-heading-self-link" href="#%e5%9b%9b-%e7%8e%b0%e9%98%b6%e6%ae%b5%e4%b8%8e%e5%b1%95%e6%9c%9b-%e8%80%80%e6%81%92%e8%8d%a7%e5%be%ae%e7%ba%aa-5030%e5%b9%b4%e8%87%b3%e4%bb%8a" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>西南核心分局： 经过数十年发展，禹州调查局已成为红星国调查总局在西南大区设备最先进、人才储备最雄厚、实战经验最丰富的核心分支机构之一。&lt;/p>
+&lt;p>主要职能：&lt;/p>
+&lt;p>负责禹州行省及周边区域的异能事件监控、预警、调查与处置。&lt;/p>
+&lt;p>打击“黑色组织”等敌对势力在本区域的渗透与破坏活动。&lt;/p>
+&lt;p>管理本区域已登记异能者，维护异能者社群的基本秩序。&lt;/p>
+&lt;p>承担新晋专员的基础与中级培训任务，为总局及其他分局输送人才。&lt;/p>
+&lt;p>参与国家级乃至国际性的联合调查行动（在总局协调下）。&lt;/p>
+&lt;p>面临的挑战： “黑色组织”的持续威胁、“冥界”裂隙的出现与渗透、新型异能的不断涌现、以及异能与尖端科技结合带来的未知风险，都对禹州调查局提出了新的考验。&lt;/p>
+&lt;p>未来发展： 在王志刚局长等高层的领导下，禹州调查局将继续强化自身能力，提升科技水平，深化对异能本质的研究，与其他机构紧密合作，致力于维护红星国在新时代的特殊安全与稳定。&lt;/p>
+&lt;p>重要事件/时期（可根据小说情节补充）：&lt;/p>
+&lt;p>禹州地铁爆炸案调查&lt;/p>
+&lt;p>下城区连环杀人案（文远/张桂芳案）&lt;/p>
+&lt;p>云华农贸市场张乐失踪案及地下医院事件&lt;/p></description></item><item><title>文档主要结构</title><link>https://QingSH-J.github.io/novel/docs/getting-started/example-page/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://QingSH-J.github.io/novel/docs/getting-started/example-page/</guid><description>&lt;div class="pageinfo pageinfo-primary">
+&lt;p>文档主要介绍小说设定、任务档案、人物档案等内容&lt;/p>
 
 &lt;/div>
 
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item></channel></rss>
+&lt;p>为了帮助您更好地探索这个充满异能、阴谋与古老秘密的世界，我们构建了结构清晰的文档体系。无论您是初次接触本小说的新读者，还是希望深入研究特定设定的资深粉丝，都可以通过以下主要版块快速找到您需要的信息：&lt;/p>
+&lt;p>首页 (Homepage):
+作为您进入本维基的门户，首页提供了对整个世界观的核心概览、最新更新以及通往各个主要设定分类的快速入口。如果您是第一次来访，建议从这里开始您的探索之旅。&lt;/p>
+&lt;p>世界观设定 (Worldbuilding Lore):
+这是理解本小说宇宙的基石。此版块下设多个子分类，详细介绍了：&lt;/p>
+&lt;p>历史与纪元 (History &amp;amp; Eras): 包括“耀恒荧微纪”的起源、红星联邦共和国成立前的古老王朝、以及贯穿故事的重大历史事件年表。&lt;/p>
+&lt;p>地理与地点 (Geography &amp;amp; Locations): 详述艾斯特拉大陆、禹州、帝都等重要区域的地理风貌、人文特点以及在故事中扮演的角色。&lt;/p>
+&lt;p>宇宙观与神祇 (Cosmology &amp;amp; Deities): 揭示世界的构成、多维空间（如冥界）的存在，以及雷神、耀恒王等神祇的背景与影响。&lt;/p>
+&lt;p>力量体系详解 (Power Systems Explained):
+深入剖析本小说世界中各种超凡力量的来源与运作机制：&lt;/p>
+&lt;p>异能档案 (Anomalous Abilities Dossiers): 详细记录了如“魔电”、“幽影”、“鹰眼”、“因果种子”等各类异能的能力描述、等级评估、优缺点以及已知使用者。&lt;/p>
+&lt;p>血脉力量 (Bloodline Powers): 探究雷神血脉、耀恒王血脉、魔族可汗血脉等古老血脉的传承与力量特质。&lt;/p>
+&lt;p>组织与势力 (Organizations &amp;amp; Factions):
+揭示在这个世界中纵横捭阖的各大组织：&lt;/p>
+&lt;p>调查局 (Investigation Bureau): 包括其全球架构、红星国调查总局、禹州分局等分支机构的详细设置、部门职责以及重要行动记录。&lt;/p>
+&lt;p>黑色组织/黑曜石议会 (Black Organization/Obsidian Council): 追踪这个神秘敌对势力的目标、手段和已知成员。&lt;/p>
+&lt;p>其他势力： 如冥界、军方、以及可能存在的其他秘密社团或国际力量。&lt;/p>
+&lt;p>登场角色档案 (Character Dossiers):
+这里汇集了小说中所有重要角色的详细资料，包括他们的外貌特征、性格特质、背景经历、能力技能、人际关系以及在故事中的关键作用。您可以按姓名或所属势力进行查找。&lt;/p>
+&lt;p>物品与道具 (Items &amp;amp; Artifacts):
+收录了小说中出现的具有特殊意义或强大力量的物品，如“绝云剑”、“龙丹”、“禁魔石”等，并解释其来历和功能。&lt;/p>
+&lt;p>任务档案 (Mission Archives):
+记录了调查局或其他组织执行过的重大任务和调查事件，如“禹州地铁爆炸案”、“普罗米修斯之火”等，包含任务背景、过程、结果与评估。&lt;/p>
+&lt;p>词汇表/术语解释 (Glossary):
+如果您在阅读过程中遇到不理解的专有名词或术语，可以在这里找到它们的解释。&lt;/p></description></item></channel></rss>
